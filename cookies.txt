@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.kickstarter.com	TRUE	/	FALSE	1999999999	vis	1005814313abcfb2-9fa04c75ab102442-6531fb6d3b20a347v1
+www.kickstarter.com	TRUE	/	FALSE	1999999999	lang	en
+www.kickstarter.com	TRUE	/	FALSE	1999999999	last_page	https%3A%2F%2Fwww.kickstarter.com%2Fdiscover%2Fadvanced%3Fsort%3Dmagic%26seed%3D2705223%26page%3D1
+www.kickstarter.com	TRUE	/	FALSE	1999999999	optimizely_current_variations	%7B%7D
+www.kickstarter.com	TRUE	/	FALSE	1999999999	_pxhd	c95cde7d54ec833d2b978c1dc4bb3ad8162ec6efa265d2011011e83072299b90:328c05e0-c823-11eb-9766-f5aba5be84ba
+www.kickstarter.com	TRUE	/	FALSE	1999999999	_ksr_session	QldXaW9xRDhsaDRZYnBuNVczVTN2MmYrK21HbDMydUd3Mm9EUlJsUFVCTE55Zlpjb3hDcUVqekpmSmRuVWRZcHpyUDYyUC9ua3pHUDk3SDMyK0Z6bDlyanBmY0pUNTEvMXJYeUgzTVN4Qnc3WCtYazJicXpobS9oN1ZDOGpLOXVBSkY3KzlYY3N6RWp6MlJ6RFdTaHF3PT0tLS8wckgwcUQvNTVwVC9yNE1JeUsrQlE9PQ%3D%3D--d7862717f14961e988dd0848905658455c810a28
+www.kickstarter.com	TRUE	/	FALSE	1999999999	request_time	Tue%2C+08+Jun+2021+06%3A31%3A53+-0000
+

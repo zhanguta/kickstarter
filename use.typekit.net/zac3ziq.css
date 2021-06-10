@@ -1,0 +1,43 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * effra:
+ *   - http://typekit.com/eulas/00000000000000000001787f
+ *   - http://typekit.com/eulas/000000000000000000017880
+ *   - http://typekit.com/eulas/000000000000000000017881
+ *   - http://typekit.com/eulas/000000000000000000017882
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-04-02 15:26:39 UTC"}*/
+
+@import url("../p.typekit.net/p4da6.css?s=1&amp;k=zac3ziq&amp;ht=tk&amp;f=9787.9788.9793.9794&amp;a=21584267&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"effra";
+src:url("af/946b62/00000000000000000001787f/27/l3b0e?subset_id=2&amp;fvd=n7&amp;v=3") format("woff2"),url("af/946b62/00000000000000000001787f/27/d3b0e?subset_id=2&amp;fvd=n7&amp;v=3") format("woff"),url("af/946b62/00000000000000000001787f/27/a3b0e?subset_id=2&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"effra";
+src:url("af/64b320/000000000000000000017880/27/l00e3?subset_id=2&amp;fvd=i7&amp;v=3") format("woff2"),url("af/64b320/000000000000000000017880/27/d00e3?subset_id=2&amp;fvd=i7&amp;v=3") format("woff"),url("af/64b320/000000000000000000017880/27/a00e3?subset_id=2&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"effra";
+src:url("af/d3769f/000000000000000000017881/27/lc150?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("woff2"),url("af/d3769f/000000000000000000017881/27/dc150?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("woff"),url("af/d3769f/000000000000000000017881/27/ac150?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n9&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;
+}
+
+@font-face {
+font-family:"effra";
+src:url("af/06ea21/000000000000000000017882/27/lca71?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3") format("woff2"),url("af/06ea21/000000000000000000017882/27/dca71?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3") format("woff"),url("af/06ea21/000000000000000000017882/27/aca71?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i9&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:900;
+}
+
+.tk-effra { font-family: "effra",sans-serif; }
